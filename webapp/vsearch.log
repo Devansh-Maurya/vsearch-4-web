@@ -1,0 +1,4 @@
+ImmutableMultiDict([('phrase', 'devansh'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0|{'a', 'e'}
+ImmutableMultiDict([('phrase', 'devansh'), ('letters', 'aeiou')])|127.0.0.1|Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0|{'a', 'e'}
+ImmutableMultiDict([('phrase', 'maurya'), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0 | {'a', 'u'}
+ImmutableMultiDict([('phrase', 'maurya'), ('letters', 'aeiou')]) | 127.0.0.1 | Mozilla/5.0 (X11; Linux x86_64; rv:49.0) Gecko/20100101 Firefox/49.0 | {'a', 'u'}
